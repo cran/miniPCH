@@ -1,6 +1,6 @@
-b4f321d28a2d4655c68e0739f3bec035 *DESCRIPTION
+a9ca933b31bec44b7e9b384860c4e41e *DESCRIPTION
 dfd8673b0ea751a78e0381463d17f505 *NAMESPACE
-d2090ab4752643cede1cd8f275e07bf9 *NEWS.md
+577f92c9a9df9354db75b0e26e73fa9a *NEWS.md
 b17477a8e2bffefad11cc1626efb9a80 *R/RcppExports.R
 da7613ff7cc9c3fe5af8767c1c9c7622 *R/internals.R
 b1562d174de8b965fe872f966d9d2368 *R/miniPCH-pacakge.R
@@ -17,7 +17,7 @@ d50804e82b776a60f73f6ab3c10a6bd7 *README.md
 32a2d07e81892afb14ab2853df9ed7d2 *man/pch_functions.Rd
 e62585629948e7dd143efbad43c2a6eb *src/Makevars
 e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
-95187531ec79e37c7cac630a1015b7ab *src/RcppExports.cpp
+4ff48387f08d6b621d920815546a20b6 *src/RcppExports.cpp
 96449b607d49049e6014d52ceacf040f *src/multistate.cpp
 dd908c6c06a8e802a4d4bb88148231f7 *src/pch_functions.cpp
 242c945bfb21aa920322d80c6690e8e3 *tests/testthat.R
