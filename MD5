@@ -1,6 +1,6 @@
-a9ca933b31bec44b7e9b384860c4e41e *DESCRIPTION
+2d81c7c7ea4f3ee3c059490ff4a2b68c *DESCRIPTION
 dfd8673b0ea751a78e0381463d17f505 *NAMESPACE
-577f92c9a9df9354db75b0e26e73fa9a *NEWS.md
+bf414f68f3337c279890db279a8ba18e *NEWS.md
 b17477a8e2bffefad11cc1626efb9a80 *R/RcppExports.R
 da7613ff7cc9c3fe5af8767c1c9c7622 *R/internals.R
 b1562d174de8b965fe872f966d9d2368 *R/miniPCH-pacakge.R
@@ -18,12 +18,12 @@ d50804e82b776a60f73f6ab3c10a6bd7 *README.md
 e62585629948e7dd143efbad43c2a6eb *src/Makevars
 e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
 4ff48387f08d6b621d920815546a20b6 *src/RcppExports.cpp
-96449b607d49049e6014d52ceacf040f *src/multistate.cpp
+0407c2f5ee82d2de2e84ba63d505a4e1 *src/multistate.cpp
 dd908c6c06a8e802a4d4bb88148231f7 *src/pch_functions.cpp
 242c945bfb21aa920322d80c6690e8e3 *tests/testthat.R
 12a904b791b3a2f3221178172fa53a4a *tests/testthat/setup_tests.R
 2c80754fbc53473a96dcf424f6db8cfe *tests/testthat/test-internals.R
-cb995fe0869d93c647f4c15c5e535f2f *tests/testthat/test-multistate.R
+f57dd82d3c7406aa1aaf23e274003b49 *tests/testthat/test-multistate.R
 11e222fe9295cc1d5418234f46a60008 *tests/testthat/test-multistate_functions.R
 8afbc26e2e13139a6625b4218ee34e62 *tests/testthat/test-pch.R
 7ddb7d199a8c42ff3197662ae3000bb6 *tests/testthat/test-pch_functions.R
